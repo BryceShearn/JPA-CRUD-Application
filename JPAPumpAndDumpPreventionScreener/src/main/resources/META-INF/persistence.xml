@@ -7,7 +7,7 @@
     <provider>org.hibernate.jpa.HibernatePersistenceProvider
     </provider>
     <!-- entities -->
-    <class>com.skilldistillery.stock.entities.stock</class>
+    <class>com.skilldistillery.stock.entities.stock.Stock</class>
     <!-- entities -->
     <properties>
       <property name="javax.persistence.jdbc.url" 
