@@ -84,7 +84,7 @@
 					<td>${s.averageVolumeInMil}M</td>
 				</tr>
 				<tr>
-				<td> <!-- fill in replacement for line break --></td>
+				<td> <!-- fill in replacement for line break --> </td>
 				</tr>
 			
      </c:forEach>
