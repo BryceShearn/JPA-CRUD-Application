@@ -16,7 +16,7 @@ The website application will then start the search process of the database and r
 
 ### Technologies used:
 
-JavaScript, Java, Java Persistence API, JPQL, Spring MVC & STS, Gradle, SQL, MySQL Workbench, HTML, CSS, Bootstrap, Apache, Tomcat, AWS, Atom, Git, and Github.
+JavaScript, Java, Java Persistence API, JPQL, Spring MVC & STS, Gradle, SQL, MySQL Workbench, HTML, CSS, Bootstrap, Apache Tomcat, AWS, Atom, Git, and Github.
 
 ### Topics implemented:
 
