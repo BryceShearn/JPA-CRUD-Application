@@ -14,7 +14,7 @@
     <img src="https://images.unsplash.com/photo-1556742044-3c52d6e88c62?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="Logo" width="550" height="350">
   </a>
 
-  <h3 align="center">Point Of Sale Simulation Application</h3>
+  <h3 align="center">Stock Analysis Application</h3>
 
   <p align="center">
     <kbd>
