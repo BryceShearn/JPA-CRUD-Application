@@ -4,9 +4,9 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-  
-  
 
+
+ 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -173,4 +173,3 @@ Project Link: [https://github.com/BryceShearn/Java-StockAnalysis-Application](ht
 [license-url]: https://github.com/BryceShearn/Java-StockAnalysis-Application/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/BryceShearn
-

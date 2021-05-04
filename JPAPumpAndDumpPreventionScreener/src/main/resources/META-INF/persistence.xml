@@ -12,8 +12,8 @@
     <properties>
       <property name="javax.persistence.jdbc.url" 
       value="jdbc:mysql://localhost:3306/pump_and_dump_prevention_screenerdb?useSSL=false&amp;useLegacyDatetimeCode=false&amp;serverTimezone=US/Eastern" />
-      <property name="javax.persistence.jdbc.user" value="preventionscreeneruser"/>
-      <property name="javax.persistence.jdbc.password" value="preventionscreeneruser" />
+      <property name="javax.persistence.jdbc.user" value="screeneruser"/>
+      <property name="javax.persistence.jdbc.password" value="screeneruser" />
       <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
       <property name="hibernate.show_sql" value="true" />
       <property name="hibernate.format_sql" value="true" />

@@ -6,10 +6,14 @@ import com.skilldistillery.stock.entities.stock.Stock;
 
 public interface StockDAO {
 
-	Stock searchStockByIdResult(int id);
+	Stock searchStockByIdResult(Integer id);
 
 	Stock generateStockResult(Stock stock);
 
 	List<Stock> displayAllStock();
+
+	Stock updateStock(Integer id, Stock stock);
+
+	void destroyStock(Integer id);
 
 }

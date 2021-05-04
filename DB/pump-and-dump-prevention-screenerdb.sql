@@ -38,11 +38,11 @@ CREATE TABLE IF NOT EXISTS `stock` (
 ENGINE = InnoDB;
 
 SET SQL_MODE = '';
-DROP USER IF EXISTS preventionscreeneruser@localhost;
+DROP USER IF EXISTS screeneruser@localhost;
 SET SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';
-CREATE USER 'preventionscreeneruser'@'localhost' IDENTIFIED BY 'preventionscreeneruser';
+CREATE USER 'screeneruser'@'localhost' IDENTIFIED BY 'screeneruser';
 
-GRANT SELECT, INSERT, TRIGGER, UPDATE, DELETE ON TABLE * TO 'preventionscreeneruser'@'localhost';
+GRANT SELECT, INSERT, TRIGGER, UPDATE, DELETE ON TABLE * TO 'screeneruser'@'localhost';
 
 SET SQL_MODE=@OLD_SQL_MODE;
 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
@@ -75,4 +75,3 @@ INSERT INTO `stock` (`id`, `nameofstock`, `tikr`, `current_trading_price`, `open
 INSERT INTO `stock` (`id`, `nameofstock`, `tikr`, `current_trading_price`, `open`, `market_cap_in_mil`, `shares_outstanding_in_mil`, `public_float_in_mil`, `revenue_per_employee_in_mil`, `price_to_earnings_ratio`, `short_interest_in_mil`, `percent_of_float_shorted`, `average_volume_in_mil`) VALUES (20, 'FuelCell Energy Inc', 'FCEL', '17.98', '17.15', '5860.00', '322.41', '309.26', '224.28', '1.88', '26.31', '8.51', '49.19');
 
 COMMIT;
-
