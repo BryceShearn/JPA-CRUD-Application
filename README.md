@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/BryceShearn/Java-PointOfSaleSimulationApplication">
+  <a href="https://github.com/BryceShearn/Java-StockAnalysis-Application">
     <img src="" alt="Logo" width="550" height="350">
   </a>
 
@@ -38,13 +38,13 @@
     </kbd>
   <br />
   <br />
-    <a href="https://github.com/BryceShearn/Java-PointOfSaleSimulationApplication"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BryceShearn/Java-StockAnalysis-Application"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/BryceShearn/Java-PointOfSaleSimulationApplication/issues">Report Bug</a>
+    <a href="https://github.com/BryceShearn/Java-StockAnalysis-Application/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BryceShearn/Java-PointOfSaleSimulationApplication/issues">Request Feature</a>
+    <a href="https://github.com/BryceShearn/Java-StockAnalysis-Application/issues">Request Feature</a>
   </p>
 </p>
 
@@ -121,7 +121,7 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/BryceShearn/Java-PointOfSaleSimulationApplication/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/BryceShearn/Java-StockAnalysis-Application/issues) for a list of proposed features (and known issues).
 
 
 
@@ -151,7 +151,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [Bryce Shearn](https://github.com/BryceShearn)
 <br />
 
-Project Link: [https://github.com/BryceShearn/Java-BlackJackGame-Application](https://github.com/BryceShearn/Java-PointOfSaleSimulationApplication)
+Project Link: [https://github.com/BryceShearn/Java-StockAnalysis-Application](https://github.com/BryceShearn/Java-StockAnalysis-Application)
 
 
 
@@ -161,16 +161,16 @@ Project Link: [https://github.com/BryceShearn/Java-BlackJackGame-Application](ht
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/BryceShearn/Java-PointOfSaleSimulationApplication.svg?style=for-the-badge
-[contributors-url]: https://github.com/BryceShearn/Java-PointOfSaleSimulationApplication/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BryceShearn/Java-PointOfSaleSimulationApplication.svg?style=for-the-badge
-[forks-url]: https://github.com/BryceShearn/Java-PointOfSaleSimulationApplication/network/members
-[stars-shield]: https://img.shields.io/github/stars/BryceShearn/Java-PointOfSaleSimulationApplication.svg?style=for-the-badge
-[stars-url]: https://github.com/BryceShearn/Java-PointOfSaleSimulationApplication/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BryceShearn/Java-PointOfSaleSimulationApplication.svg?style=for-the-badge
-[issues-url]: https://github.com/BryceShearn/Java-PointOfSaleSimulationApplication/issues
-[license-shield]: https://img.shields.io/github/license/BryceShearn/Java-PointOfSaleSimulationApplication.svg?style=for-the-badge
-[license-url]: https://github.com/BryceShearn/Java-PointOfSaleSimulationApplication/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/BryceShearn/Java-StockAnalysis-Application.svg?style=for-the-badge
+[contributors-url]: https://github.com/BryceShearn/Java-StockAnalysis-Application/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BryceShearn/Java-StockAnalysis-Application.svg?style=for-the-badge
+[forks-url]: https://github.com/BryceShearn/Java-StockAnalysis-Application/network/members
+[stars-shield]: https://img.shields.io/github/stars/BryceShearn/Java-StockAnalysis-Application.svg?style=for-the-badge
+[stars-url]: https://github.com/BryceShearn/Java-StockAnalysis-Application/stargazers
+[issues-shield]: https://img.shields.io/github/issues/BryceShearn/Java-StockAnalysis-Application.svg?style=for-the-badge
+[issues-url]: https://github.com/BryceShearn/Java-StockAnalysis-Application/issues
+[license-shield]: https://img.shields.io/github/license/BryceShearn/Java-StockAnalysis-Application.svg?style=for-the-badge
+[license-url]: https://github.com/BryceShearn/Java-StockAnalysis-Application/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/BryceShearn
 
