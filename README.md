@@ -27,11 +27,11 @@
       <br />
       <br />
       <br />
-       is an intro into stock monitoring with hopeful future implementation that
+       is an intro into stock monitoring with hopeful future implementation of
       <br />
       <br />
       <br />
-       provides retail investors with tools that allow them to better protect    
+       providing retail investors with tools that allow them to better protect    
       <br />
       <br />
       <br />
