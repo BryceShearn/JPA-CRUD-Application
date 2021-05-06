@@ -19,11 +19,11 @@
   <p align="center">
     <kbd>
       <br />
-      This Application is a POS register simulator that allows the operator to
+      This program is designed to a be website application that
       <br />
       <br />
       <br />
-       * Enter the total purchase price of a transaction.* Prompts tender amount from customer.* Returns total price.
+        creates, reads, updates and deletes stocks via database using Java Database Connectivity.
       <br />
       <br />
       <br />
