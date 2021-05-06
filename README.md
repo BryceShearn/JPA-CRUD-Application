@@ -27,14 +27,15 @@
       <br />
       <br />
       <br />
-      * denotes individual nominations to return to the customer if change is due at the end of sale.
+        creates, reads, updates and deletes stocks via database
       <br />
       <br />
       <br />
-      * --Invalid user input returns abort transactions / management overrides / and re-entries.
+       using Java Database Connectivity.
       <br />
       <br />
       <br />
+    </kbd>
     </kbd>
   <br />
   <br />
