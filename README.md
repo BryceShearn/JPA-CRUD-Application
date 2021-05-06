@@ -43,11 +43,11 @@
       <br />
       <br />
       <br />
-        make a company susceptible to pump and dump schemes. As well as
+        make a company susceptible to pump and dump schemes. As well
       <br />
       <br />
       <br />
-        providing real time return on stock prices for screening.
+        as providing real time return on stock prices for screening.
            <br />
       <br />
       <br />
