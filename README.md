@@ -19,36 +19,28 @@
   <p align="center">
     <kbd>
       <br />
-      This program is designed to a be web application that
+      This program is designed to a be web application that creates, reads, updates
       <br />
       <br />
       <br />
-        creates, reads, updates and deletes stocks via database
+       and deletes stocks via database using Java Database Connectivity. This tool
       <br />
       <br />
       <br />
-        using Java Database Connectivity. This tool is an intro
+       is an intro into stock monitoring with hopeful future implementation that
       <br />
       <br />
       <br />
-        into stock monitoring with hopeful future implementation     
+       provides retail investors with tools that allow them to better protect    
       <br />
       <br />
       <br />
-         that provides retail investors with tools that allow them  
+       themselves by providing automated security reports that recognize signs 
       <br />
       <br />
       <br />
-        the ability to automate the process of recognizing signs that 
+       that historically make a company susceptible to pump and dump schemes.
       <br />
-      <br />
-      <br />
-        make a company susceptible to pump and dump schemes. As well
-      <br />
-      <br />
-      <br />
-        as providing real time return on stock prices for screening.
-           <br />
       <br />
       <br />
     </kbd>
