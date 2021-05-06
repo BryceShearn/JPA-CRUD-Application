@@ -23,10 +23,6 @@
       <br />
       <br />
       <br />
-        creates, reads, updates and deletes stocks via database using Java Database Connectivity.
-      <br />
-      <br />
-      <br />
         creates, reads, updates and deletes stocks via database
       <br />
       <br />
