@@ -23,11 +23,27 @@
       <br />
       <br />
       <br />
-        creates, reads, updates and deletes stocks via database
+        creates, reads, updates and deletes stocks via database using
       <br />
       <br />
       <br />
-       using Java Database Connectivity.
+        Java Database Connectivity. This tool is an introduction into
+      <br />
+      <br />
+      <br />
+        stock monitoring with hopeful future implementation that provides     
+      <br />
+      <br />
+      <br />
+        retail investors the ability to screen stocks as well as the  
+      <br />
+      <br />
+      <br />
+        ability to automate the process of recognizing signs that 
+      <br />
+      <br />
+      <br />
+        make a company susceptible to pump and dump schemes.
       <br />
       <br />
       <br />
