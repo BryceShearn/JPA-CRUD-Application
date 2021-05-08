@@ -120,12 +120,12 @@
 ## Usage
 
 * Run the application by launching.
-    * Once the program has launched you will be prompted asking the price of the item.
-    * Once a valid price is submitted the user presses [enter].
-    * The user will be prompted asking the amount tendered. Once typed, the user presses [enter].
-    * Upon pressing [enter] with the correct tender amount change due will be displayed.
-    * Below change due are denominations most suitable for the user to return to the customer.
-      based off of the change due.
+    * First, the user enters the index page. The user can choose to:
+    *  Search the list of stocks via stock ticker in order to inquire on different
+       metrics which would be impactful in making meaningful investment decisions.
+    
+    *  The user is able to add a stock which may not previously be in the database 
+       due to pinkslip, OTC status or due to new or potential IPO / DPO listings.
 
 <!-- ROADMAP -->
 ## Roadmap
