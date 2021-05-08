@@ -126,6 +126,15 @@
     
     *  The user is able to add a stock which may not previously be in the database 
        due to pinkslip, OTC status or due to new or potential IPO / DPO listings.
+       
+    *. The user is able to display a list of all stocks on file making viewing 
+       total metrics or inquiring on overall stock metrics and trends possible.
+       
+    *. (delete implementation was left out due to the ill effect of user's 
+        being able to remove stocks from the database).
+        
+        The website application will then start the search process of the
+        database and return the result of the search with all of the list data.
 
 <!-- ROADMAP -->
 ## Roadmap
